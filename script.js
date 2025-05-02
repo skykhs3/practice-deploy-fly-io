@@ -1,1 +1,1 @@
-window.replace("https://portal.kaist.ac.kr/");
+window.location.replace("https://portal.kaist.ac.kr/");
